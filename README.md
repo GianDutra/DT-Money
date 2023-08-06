@@ -1,16 +1,16 @@
-# Ignite DT-Money
+# DT-Money
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/DT-Money?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/DT-Money">
 
-   <a href="https://github.com/GianDutra/coffee-delivery/commits/master">
+   <a href="https://github.com/GianDutra/DT-Money/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/DT-Money">
   </a>
   
- <a href="https://ignite-timer-rho.vercel.app/">
-    <img alt="Shop-Nextjs" src="https://img.shields.io/badge/Shop-Nextjs-%237159c1?style=flat&logo=ghost">
+ <a href="https://dt-money-giandutra.vercel.app/">
+    <img alt="Shop-Nextjs" src="https://img.shields.io/badge/DT-Money-%237159c1?style=flat&logo=ghost">
   </a>
   
 </p>
