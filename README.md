@@ -25,7 +25,6 @@ Para criar o site foi utilizado:
 
 - **[React Hook Form](https://react-hook-form.com/)**
 - **[Styled Components](https://styled-components.com/)**
-- **[Radix](https://www.radix-ui.com/)**
 - **[Phosphor Icons](https://phosphoricons.com/)**
 - **[RadixUI](https://www.radix-ui.com/)**
 - **[Axios](https://axios-http.com/)**
