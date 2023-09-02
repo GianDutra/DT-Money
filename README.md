@@ -30,7 +30,7 @@ Para criar o site foi utilizado:
 - **[Axios](https://axios-http.com/)**
 - **[Zod](https://github.com/colinhacks/zod)**
   
-#### **Fake REST API**
+#### **API**
 - **[JsonServer](https://github.com/typicode/json-server)**
 
 ## Ajustes e melhorias
